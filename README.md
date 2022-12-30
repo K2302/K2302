@@ -1,9 +1,9 @@
-### Hi there 👋
 
-<!--
-**K2302/K2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+**K23ADME.md` (this file) appears on your GitHub profile.
+
+
 
 - 🔭 I’m currently studying in NIT SILCHAR
 - 🌱 I’m currently learning react and node js
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 Twitter: 
 @Kaushik90228876
 
--->
+
+
+
+
+
