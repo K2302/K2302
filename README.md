@@ -1,9 +1,6 @@
 
 
 
-**K23ADME.md` (this file) appears on your GitHub profile.
-
-
 # 💫 About Me:
 - 🔭 I’m currently studying in NIT SILCHAR
 - 🌱 I’m currently learning react and node js
